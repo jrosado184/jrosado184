@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jrosado184
-- 👀 I’m interested in ... softaware and web development
+- 👀 I’m interested in ... software and web development
 - 🌱 I’m currently learning ... HTML, CSS and git repos
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... javierrosado184@gmail.com
