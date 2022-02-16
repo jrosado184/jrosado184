@@ -6,6 +6,7 @@
 
 
 
+
 # Hello, I'm Javier Rosado! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <img src="https://user-images.githubusercontent.com/88807540/154181297-bbd162a6-ce47-4686-9eb3-399c83c3e7ba.png" width="300" height="300">
@@ -20,3 +21,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrosado184)](https://github.com/jrosado184/github-readme-stats)
 
 
+![](https://komarev.com/ghpvc/?username=your-jrosado184)
