@@ -17,15 +17,19 @@
 - 📫 How to reach me ... javierrosado184@gmail.com
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jrosado184&theme=vue)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrosado184)](https://github.com/anuraghazra/github-readme-stats)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrosado184)](https://github.com/jrosado184/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jrosado184)](https://git.io/streak-stats)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jrosado184&theme=vue)
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 ![](https://komarev.com/ghpvc/?username=your-jrosado184)
 
