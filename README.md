@@ -23,4 +23,10 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jrosado184)](https://git.io/streak-stats)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jrosado184&theme=vue)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![](https://komarev.com/ghpvc/?username=your-jrosado184)
+
+
